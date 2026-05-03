@@ -1,6 +1,6 @@
 # TGChatBot - Telegram消息转发机器人
 
-> 基于Cloudflare的Telegram消息转发分组对话机器人，零成本运行，自由可控，由凉心根据自己需求进行二次开发自用
+> 基于Cloudflare的Telegram消息转发分组对话机器人，零成本运行，自由可控，由谢幕根据自己需求进行二次开发自用
 
 ## 📑 目录
 
